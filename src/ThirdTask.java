@@ -10,7 +10,6 @@ public class ThirdTask {
         int minutes = seconds1 / 60 ;
         int seconds2 = seconds1 % 60 ;
 
-
         System.out.println(("HH:MM:SS: " +hours+":"+minutes+":"+seconds2));
 
     }

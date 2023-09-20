@@ -11,6 +11,7 @@ public class FirstTask {
         double area = height * wight;
         System.out.println("Area of a rectangle is "  + area);
 
+
         double perimeter = 2 * (height + wight);
         System.out.println("Perimeter of a rectangle is " + perimeter);
 
