@@ -9,8 +9,8 @@ public class SecondTask {
         double weight = scanner.nextDouble();
 
 
-        double Bmi  = weight / (height * height);
-        System.out.println("Your Bmi is : " + Bmi );
+        double BMI  = weight / (height * height);
+        System.out.println("Your BMI is : " + BMI );
 
 
 
